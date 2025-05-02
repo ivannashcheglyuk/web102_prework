@@ -1,44 +1,65 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: **Your Name Here**
+Submitted by: Ivanna Shcheglyuk
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Crowdfunding is a website that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 10 hours spent in total
 
-## Required Features
+## Features
+Displays all funded games with images and descriptions
+Shows total amount raised and number of games
+Filters for funded and unfunded games
+Highlights the top 2 most-funded games
+Dynamic content updates using JavaScript
+Clean layout with responsive design
+
+ ## Technologies Used
+HTML
+CSS
+JavaScript 
+DOM manipulation
+Git & GitHub
+
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X ] The introduction section explains the background of the company and how many games remain unfunded.
+* [X ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X ] List anything else that you can get done to improve the app functionality!
+
+  Add filters to sort games by category or funding status
+  Add search functionality to find games by name
+  Add animations or transitions for a smoother user experience
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough] (https://github.com/user-attachments/assets/b6f92580-bcf5-4b62-8e16-f17c69f0bdf7)
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+GIF created with Bandicam and [EZGIF](https://ezgif.com/video-to-gif) 
+![bandicam2025-05-0200-31-24-370-ezgif com-video-to-gif-converter]
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+I encountered a few challenges:
+Understanding destructuring and the spread operator: It took some trial and error to use these properly when selecting the top-funded games.
+Debugging JavaScript DOM manipulation: At times, elements didn’t appear as expected, which required careful use of console.log() to trace the issue.
+Converting video to GIF: Including a visual walkthrough in the README required learning how to convert and embed media correctly.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Ivanna Shcheglyuk
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
