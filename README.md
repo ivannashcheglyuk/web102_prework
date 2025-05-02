@@ -8,10 +8,15 @@ Time spent: 10 hours spent in total
 
 ## Features
 Displays all funded games with images and descriptions
+
 Shows total amount raised and number of games
+
 Filters for funded and unfunded games
+
 Highlights the top 2 most-funded games
+
 Dynamic content updates using JavaScript
+
 Clean layout with responsive design
 
  ## Technologies Used
