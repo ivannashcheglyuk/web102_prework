@@ -20,11 +20,11 @@ Dynamic content updates using JavaScript
 Clean layout with responsive design
 
  ## Technologies Used
-HTML
-CSS
-JavaScript 
-DOM manipulation
-Git & GitHub
+HTML, 
+CSS, 
+JavaScript, 
+DOM manipulation, 
+Git & GitHub. 
 
 
 The following **required** functionality is completed:
@@ -39,8 +39,11 @@ The following **optional** features are implemented:
 * [X ] List anything else that you can get done to improve the app functionality!
 
   Add filters to sort games by category or funding status
+  
   Add search functionality to find games by name
+  
   Add animations or transitions for a smoother user experience
+  
 
 ## Video Walkthrough
 
@@ -48,9 +51,7 @@ Here's a walkthrough of implemented features:
 
 ![Video Walkthrough] (https://github.com/user-attachments/assets/b6f92580-bcf5-4b62-8e16-f17c69f0bdf7)
 
-
 GIF created with Bandicam and [EZGIF](https://ezgif.com/video-to-gif) 
-![bandicam2025-05-0200-31-24-370-ezgif com-video-to-gif-converter]
 
 
 ## Notes
